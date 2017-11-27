@@ -1,5 +1,4 @@
-/* Author: Chris Garry
-//
+/*
 // Description: A Caesar Cipher
 // algorithm to encrypt plaintext
 // messages over the lowercase a-z alphabet.
